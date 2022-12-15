@@ -3,7 +3,7 @@ public class SumOfNumbers5
 {  
 public static void main(String args[])  
 {  
-int x, y, z, sum;  
+int x, y, z, sum ;  
 Scanner sc = new Scanner(System.in);  
 System.out.print("Enter the first number: ");  
 x = sc.nextInt();  
